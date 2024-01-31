@@ -10,7 +10,7 @@ Sometimes you have too many cookies on a domain and need to delete them for some
 
 * Reference the sample [cookiemonster/index.html](cookiemonster/index.html) and [cookiemonster/index-bootstrap.html](cookiemonster/index-bootstrap.html) files.
 * Check out [cookiemonster/nomnom.js](cookiemonster/nomnom.js) to see how it works.
-* Modify and make your own versions as needed.
+* Modify `cookieExclude` (explicit match) and `autoCookieInclude` (startsWith match) arrays in nomnom.js to exclude or automatically include specific cookies by name.
 
 ### Prerequisites
 
