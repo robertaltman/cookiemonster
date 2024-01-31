@@ -16,6 +16,10 @@ Sometimes you have too many cookies on a domain and need to delete them for some
 
 The code needs to run on a domain that has access to the cookies you want to delete.
 
+### Example screengrab of index.html
+
+![](cookiemonster.gif)
+
 ## Authors
 
 * **[Robert Altman](https://github.com/robertaltman)**
